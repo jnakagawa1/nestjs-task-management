@@ -1,0 +1,8 @@
+db:
+  host: 'localhost'
+  username: 'postgres'
+  password: 'Postgres2020!'
+  synchronize: true
+
+jwt:
+  secret: 'topSecret51'
